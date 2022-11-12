@@ -8,7 +8,7 @@ namespace HelloApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("welcome to git");
-            Console.WriteLine("Git and Github are not same")
+            Console.WriteLine("Git and Github are not same");
         }
     }
 }
